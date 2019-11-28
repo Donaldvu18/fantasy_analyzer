@@ -1,0 +1,1 @@
+const YahooFantasy = require('yahoo-fantasy');
